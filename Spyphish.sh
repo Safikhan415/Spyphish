@@ -332,4 +332,4 @@ checkfound
 
 banner
 dependencies
-camphish
+Spyphish
