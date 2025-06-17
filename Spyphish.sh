@@ -1,5 +1,5 @@
 #!/bin/bash
-# Safikhan415 v1.7
+# Spyphisher v1.7
 # Powered by TechChip
 # Credits goes to Safikhan415[github.com/Safikhan415/]
 
@@ -262,7 +262,7 @@ payload_ngrok
 checkfound
 }
 
-camphish() {
+Spyphish() {
 if [[ -e sendlink ]]; then
 rm -rf sendlink
 fi
@@ -285,7 +285,7 @@ else
 printf "\e[1;93m [!] Invalid option!\e[0m\n"
 sleep 1
 clear
-camphish
+Spyphish
 fi
 
 }
