@@ -30,8 +30,8 @@ apt-get -y install php openssh git wget
 ```bash
 git clone https://github.com/Safikhan415/Spyphish
 cd Spyhish
-chmod +x Spyhish.sh
-bash Spyhish.sh
+chmod +x Spyphish.sh
+bash Spyphish.sh
 ```
 
 ## 📝 Change Log:
