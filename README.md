@@ -1,4 +1,4 @@
-# 🌟 CamPhish 🌟
+# 🌟 Spyphish 🌟
 *Capture cam shots from a target's device just by sending a link!*
 
 ## 🎥 What is CamPhish?
